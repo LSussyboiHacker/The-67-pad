@@ -1,4 +1,4 @@
-##The 67 pad
+The 67 pad
 
 My custom macropad. Took me a while to learn the basics of everything, but making the github repo was the most frustrating, atleast I've got it working now. I plan to use it for general editing and as a soundboard.
 
