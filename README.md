@@ -10,6 +10,7 @@ BOM
 - 4x M3 Heatset
 - 1x XIAO RP2040
 - 4x Cherry MX Switches
+- 1x 3D printed case (top and bottom)
   
 Case
 
